@@ -1,0 +1,25 @@
+EasyQuestions	Bir sayının 3 katı 48 ise sayının kendisi kaçtır?	16
+EasyQuestions	Bir okulda 38 kız , 46 tane de erkeköğrenci varmış. Bu okulda kaç tane öğrencivardır?	84
+EasyQuestions	Ercan 7 yaşındadır. Babasının yaşı ise Ercan’ın yaşının 5 katıdır. Ercan’ın babası kaç yaşındadır ?	35
+EasyQuestions	Kaya’nsın 43 tane bilyesi vardı. 18 tanesini kaybetti. Kaya’nın kaç bilyesi kaldı? 	25
+EasyQuestions	16 kalemi 4 kardeş eşit olarak paylaşıyor. Bir kardeşe kaç kalem düşer ?	4
+EasyQuestions	Bir mağaza günde 7 takım elbise satıyor. Bu mağaza 3 günde kaç takım elbise satar?	21
+EasyQuestions	Sınıfımızdaki her pencereye 8 bayrak astık. 2 pencereye kaç tane barak astık ?	16
+EasyQuestions	Sınıfımızda 16 erkek , 19 kız öğrenci var. Yanımızdaki sınıfta ise 27 öğrenci var.İki sınıfta toplam kaç öğrenci var?	62
+MidQuestions	Okul kütüphanesinde 284 roman, 387 masal ve 86 tane de şiir kitabı vardır. Oku kütüphanesinde kaç kitap vardır?	757
+MidQuestions	Bahçede 326 elma, elmadan 138 fazla da kiraz ağacı vardır. Bahçede toplam kaç ağaç vardır?	790
+MidQuestions	Ben 32 kilogram geliyorum. Annem benden 29 kilogram daha ağırdır. Babam da annemden 27 kilogram ağırdır. Üçümüzün toplam ağırlığı kaç kilodur ?	181
+MidQuestions	Bir çiftlikte 16 at, 12 koyun, 18 tavuk vardır. Bu çiftlikte bulunan hayvanların ayak sayıları toplamı kaçtır?	148
+MidQuestions	Bir atölyede 960 gömlek üretildi. Gömleklerin 92’si hatalı olduğu için ayrıldı. 748 tane gömlek ise satıldı. Geriye kaç gömlek kaldı?	120
+MidQuestions	Babam 965 TL’sinin 450 TL’si ile kirayı, 224 TL’si ile faturaları ödedi. 127 TL’si ile de alışveriş yaptı. Babamın kaç lirası kaldı?	164
+MidQuestions	Bir çıkarma işleminde çıkan 216, fark 408 ise eksilen kaçtır?	624
+MidQuestions	Kitaplarımın sayısı 5 yüzlük 3 onluk 6 birlik sayısı kadardır. Kitaplarımın 4 düzine fazlası kaç kitap eder?	584
+HardQuestions	Bir çiftlikte bulunan 25 ördek ve 32 tavşanın toplam ayak sayısı kaçtır?	178
+HardQuestions	Hangi sayının 2 katının 2 eksiği 28 eder?	15
+HardQuestions	Sınıfımızda sınıf başkanlığına iki kişi aday oldu. Herkes seçime katılıp oy kullandı.İdil 14 oy farkla başkan seçildi. Gizem ise 15 oy alarak seçimi kaybetti. Herkesbir oy verdiğine göre sınıfımızın mevcudu kaçtır?	44
+HardQuestions	9 tane çikolata ve 6 tane sakız için 21 lira ödenmiştir.3 tane çikolata ve 2 tane sakız için kaç lira ödenir?	7
+HardQuestions	Bir çuvalda 46 kg mısır vardır. Pazara 3 çuval mısır götüren çiftçi mısırların 106 kg'ını sattı. Geriye kalan mısırlar kaç kilogramdır?	32
+HardQuestions	250 + ( 4 x 25) =	350
+HardQuestions	(64: 4) – ( 72: 8) =	7
+HardQuestions	(4 x30) : 8 =	15
+HardQuestions	Ardışık dört çift doğal sayının toplamı 148 olduğuna göre, en büyük doğal sayı kaç olur?	34
